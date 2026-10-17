@@ -1,0 +1,4 @@
+.DS_Store
+c/log_analyzer
+__pycache__/
+*.pyc
